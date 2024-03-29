@@ -3,8 +3,8 @@ My attempts at the CMS challenge tasks for the GSoC2024
 
 Descriptions taken from here: https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit
 
-**
-Common Task 1. Electron/photon classification
+## Common Task 1. Electron/photon classification
+
 Datasets:
 https://cernbox.cern.ch/index.php/s/AtBT8y4MiQYFcgc (photons)
 https://cernbox.cern.ch/index.php/s/FbXw3V4XNyYB3oA (electrons)
@@ -17,8 +17,8 @@ classification score on this image dataset. Please provide a Jupyter notebook th
 
 Please train your model on 80% of the data and evaluate on the remaining 20%. Please make sure not to overfit on the test dataset - it will be checked with an independent sample.
 
-**
-Common Task 2.  Deep Learning based Quark-Gluon Classification
+## Common Task 2.  Deep Learning based Quark-Gluon Classification
+
 
 Datasets: https://cernbox.cern.ch/s/oolDBdQegsITFcv
 
