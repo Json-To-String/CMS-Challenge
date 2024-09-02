@@ -1,0 +1,9 @@
+numpy
+tensorflow
+keras
+sklearn
+numpy
+pandas
+matplotlib
+h5py
+fsspec
